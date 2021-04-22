@@ -23,8 +23,8 @@ The code for sparse matrix separation was tested on removing both impulsive and 
 
 We hope that the package is useful for your application. If you have any bug reports or comments, please feel free to email one of the toolbox authors:
 
-Yin Zhang
-Zaiwen Wen
+Yin Zhang  
+Zaiwen Wen   
 Yuan Shen (SMS)
 
 ## License:
