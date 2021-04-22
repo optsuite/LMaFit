@@ -11,8 +11,8 @@ clear
 % r  = params(3); 
 % dr = params(4);
 
-m = 100000;  % row of the matrix
-n = 100000;  % column of the matrix
+m = 1000;  % row of the matrix
+n = 1000;  % column of the matrix
 r = 10;    % rank of the matrix
 dr = 6;    % degree of freedom of the matrix
 
